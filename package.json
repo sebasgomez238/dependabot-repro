@@ -1,0 +1,9 @@
+{
+     "name": "dependabot-removed-dep-repro",
+     "version": "1.0.0",
+     "private": true,
+     "dependencies": {
+       "antd": "3.26.20",
+       "is-odd": "3.0.1"
+     }
+   }
