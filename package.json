@@ -3,7 +3,7 @@
      "version": "1.0.0",
      "private": true,
      "dependencies": {
-       "antd": "3.26.20",
+       "antd": "6.3.2",
        "is-odd": "3.0.1",
        "is-even": "1.0.0"
      }
